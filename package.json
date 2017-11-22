@@ -1,0 +1,23 @@
+{
+  "name": "viewscript",
+  "version": "0.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haripery/viewScript.git"
+  },
+  "author": "Hari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haripery/viewScript/issues"
+  },
+  "dependencies": {
+    "express": "^4.10.8"
+  },
+  "homepage": "https://github.com/haripery/viewScript#readme",
+  "description": ""
+}
